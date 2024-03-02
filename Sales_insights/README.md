@@ -17,4 +17,4 @@ The report is intended to help users understand sales performance over time, ide
 
 ## Tools Used
 
-Microsoft Power BI Desktop
+*Microsoft Power BI*
